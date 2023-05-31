@@ -1,0 +1,9 @@
+difference between   Stack || Heap 
+
+Stack Vs Heap
+
+RAM => (Stack & Heap)
+
+Stack أماكن مرتبة تحت بعض في الميموري 
+
+Heap أماكن عشوائية في الميموري

@@ -1,0 +1,15 @@
+C:\Users\CROSSHAIR 15\.My_Learning\.C#\4 _ Expressions\4 _ Expressions\bin\Debug\net6.0\4 _ Expressions.exe
+C:\Users\CROSSHAIR 15\.My_Learning\.C#\4 _ Expressions\4 _ Expressions\bin\Debug\net6.0\4 _ Expressions.deps.json
+C:\Users\CROSSHAIR 15\.My_Learning\.C#\4 _ Expressions\4 _ Expressions\bin\Debug\net6.0\4 _ Expressions.runtimeconfig.json
+C:\Users\CROSSHAIR 15\.My_Learning\.C#\4 _ Expressions\4 _ Expressions\bin\Debug\net6.0\4 _ Expressions.dll
+C:\Users\CROSSHAIR 15\.My_Learning\.C#\4 _ Expressions\4 _ Expressions\bin\Debug\net6.0\4 _ Expressions.pdb
+C:\Users\CROSSHAIR 15\.My_Learning\.C#\4 _ Expressions\4 _ Expressions\obj\Debug\net6.0\4 _ Expressions.csproj.AssemblyReference.cache
+C:\Users\CROSSHAIR 15\.My_Learning\.C#\4 _ Expressions\4 _ Expressions\obj\Debug\net6.0\4 _ Expressions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CROSSHAIR 15\.My_Learning\.C#\4 _ Expressions\4 _ Expressions\obj\Debug\net6.0\4 _ Expressions.AssemblyInfoInputs.cache
+C:\Users\CROSSHAIR 15\.My_Learning\.C#\4 _ Expressions\4 _ Expressions\obj\Debug\net6.0\4 _ Expressions.AssemblyInfo.cs
+C:\Users\CROSSHAIR 15\.My_Learning\.C#\4 _ Expressions\4 _ Expressions\obj\Debug\net6.0\4 _ Expressions.csproj.CoreCompileInputs.cache
+C:\Users\CROSSHAIR 15\.My_Learning\.C#\4 _ Expressions\4 _ Expressions\obj\Debug\net6.0\4 _ Expressions.dll
+C:\Users\CROSSHAIR 15\.My_Learning\.C#\4 _ Expressions\4 _ Expressions\obj\Debug\net6.0\refint\4 _ Expressions.dll
+C:\Users\CROSSHAIR 15\.My_Learning\.C#\4 _ Expressions\4 _ Expressions\obj\Debug\net6.0\4 _ Expressions.pdb
+C:\Users\CROSSHAIR 15\.My_Learning\.C#\4 _ Expressions\4 _ Expressions\obj\Debug\net6.0\4 _ Expressions.genruntimeconfig.cache
+C:\Users\CROSSHAIR 15\.My_Learning\.C#\4 _ Expressions\4 _ Expressions\obj\Debug\net6.0\ref\4 _ Expressions.dll

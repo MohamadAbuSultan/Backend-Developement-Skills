@@ -1,0 +1,15 @@
+C:\Users\CROSSHAIR 15\.My_Learning\.C#\2 _ Boolean Types + Operators\2 _ Boolean Types + Operators\bin\Debug\net6.0\2 _ Boolean Types + Operators.exe
+C:\Users\CROSSHAIR 15\.My_Learning\.C#\2 _ Boolean Types + Operators\2 _ Boolean Types + Operators\bin\Debug\net6.0\2 _ Boolean Types + Operators.deps.json
+C:\Users\CROSSHAIR 15\.My_Learning\.C#\2 _ Boolean Types + Operators\2 _ Boolean Types + Operators\bin\Debug\net6.0\2 _ Boolean Types + Operators.runtimeconfig.json
+C:\Users\CROSSHAIR 15\.My_Learning\.C#\2 _ Boolean Types + Operators\2 _ Boolean Types + Operators\bin\Debug\net6.0\2 _ Boolean Types + Operators.dll
+C:\Users\CROSSHAIR 15\.My_Learning\.C#\2 _ Boolean Types + Operators\2 _ Boolean Types + Operators\bin\Debug\net6.0\2 _ Boolean Types + Operators.pdb
+C:\Users\CROSSHAIR 15\.My_Learning\.C#\2 _ Boolean Types + Operators\2 _ Boolean Types + Operators\obj\Debug\net6.0\2 _ Boolean Types + Operators.csproj.AssemblyReference.cache
+C:\Users\CROSSHAIR 15\.My_Learning\.C#\2 _ Boolean Types + Operators\2 _ Boolean Types + Operators\obj\Debug\net6.0\2 _ Boolean Types + Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CROSSHAIR 15\.My_Learning\.C#\2 _ Boolean Types + Operators\2 _ Boolean Types + Operators\obj\Debug\net6.0\2 _ Boolean Types + Operators.AssemblyInfoInputs.cache
+C:\Users\CROSSHAIR 15\.My_Learning\.C#\2 _ Boolean Types + Operators\2 _ Boolean Types + Operators\obj\Debug\net6.0\2 _ Boolean Types + Operators.AssemblyInfo.cs
+C:\Users\CROSSHAIR 15\.My_Learning\.C#\2 _ Boolean Types + Operators\2 _ Boolean Types + Operators\obj\Debug\net6.0\2 _ Boolean Types + Operators.csproj.CoreCompileInputs.cache
+C:\Users\CROSSHAIR 15\.My_Learning\.C#\2 _ Boolean Types + Operators\2 _ Boolean Types + Operators\obj\Debug\net6.0\2 _ Boolean Types + Operators.dll
+C:\Users\CROSSHAIR 15\.My_Learning\.C#\2 _ Boolean Types + Operators\2 _ Boolean Types + Operators\obj\Debug\net6.0\refint\2 _ Boolean Types + Operators.dll
+C:\Users\CROSSHAIR 15\.My_Learning\.C#\2 _ Boolean Types + Operators\2 _ Boolean Types + Operators\obj\Debug\net6.0\2 _ Boolean Types + Operators.pdb
+C:\Users\CROSSHAIR 15\.My_Learning\.C#\2 _ Boolean Types + Operators\2 _ Boolean Types + Operators\obj\Debug\net6.0\2 _ Boolean Types + Operators.genruntimeconfig.cache
+C:\Users\CROSSHAIR 15\.My_Learning\.C#\2 _ Boolean Types + Operators\2 _ Boolean Types + Operators\obj\Debug\net6.0\ref\2 _ Boolean Types + Operators.dll

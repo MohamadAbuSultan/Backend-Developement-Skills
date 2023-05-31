@@ -1,0 +1,15 @@
+C:\Users\CROSSHAIR 15\.My_Learning\.C#\3 _ Arrays\3 _ Arrays\bin\Debug\net6.0\3 _ Arrays.exe
+C:\Users\CROSSHAIR 15\.My_Learning\.C#\3 _ Arrays\3 _ Arrays\bin\Debug\net6.0\3 _ Arrays.deps.json
+C:\Users\CROSSHAIR 15\.My_Learning\.C#\3 _ Arrays\3 _ Arrays\bin\Debug\net6.0\3 _ Arrays.runtimeconfig.json
+C:\Users\CROSSHAIR 15\.My_Learning\.C#\3 _ Arrays\3 _ Arrays\bin\Debug\net6.0\3 _ Arrays.dll
+C:\Users\CROSSHAIR 15\.My_Learning\.C#\3 _ Arrays\3 _ Arrays\bin\Debug\net6.0\3 _ Arrays.pdb
+C:\Users\CROSSHAIR 15\.My_Learning\.C#\3 _ Arrays\3 _ Arrays\obj\Debug\net6.0\3 _ Arrays.csproj.AssemblyReference.cache
+C:\Users\CROSSHAIR 15\.My_Learning\.C#\3 _ Arrays\3 _ Arrays\obj\Debug\net6.0\3 _ Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CROSSHAIR 15\.My_Learning\.C#\3 _ Arrays\3 _ Arrays\obj\Debug\net6.0\3 _ Arrays.AssemblyInfoInputs.cache
+C:\Users\CROSSHAIR 15\.My_Learning\.C#\3 _ Arrays\3 _ Arrays\obj\Debug\net6.0\3 _ Arrays.AssemblyInfo.cs
+C:\Users\CROSSHAIR 15\.My_Learning\.C#\3 _ Arrays\3 _ Arrays\obj\Debug\net6.0\3 _ Arrays.csproj.CoreCompileInputs.cache
+C:\Users\CROSSHAIR 15\.My_Learning\.C#\3 _ Arrays\3 _ Arrays\obj\Debug\net6.0\3 _ Arrays.dll
+C:\Users\CROSSHAIR 15\.My_Learning\.C#\3 _ Arrays\3 _ Arrays\obj\Debug\net6.0\refint\3 _ Arrays.dll
+C:\Users\CROSSHAIR 15\.My_Learning\.C#\3 _ Arrays\3 _ Arrays\obj\Debug\net6.0\3 _ Arrays.pdb
+C:\Users\CROSSHAIR 15\.My_Learning\.C#\3 _ Arrays\3 _ Arrays\obj\Debug\net6.0\3 _ Arrays.genruntimeconfig.cache
+C:\Users\CROSSHAIR 15\.My_Learning\.C#\3 _ Arrays\3 _ Arrays\obj\Debug\net6.0\ref\3 _ Arrays.dll

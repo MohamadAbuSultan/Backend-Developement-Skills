@@ -1,0 +1,25 @@
+Value Type
+
+Value Type بتتخزن فقط في ال Stack
+Value Type storage in Stack
+limitation of Value Type : limit  في للتخزين
+example of value type : int  
+
+Value Type
+	1. Declaration [ <DataType> <Identifier>; ]
+		int number;
+
+	2. Assignment [ <Identifier> = <Value>; ]
+		number = 5;
+
+	3. Initialization [ <DataType> <Identifier> = <Initial Value>; ]
+		int number2 = 10;
+		
+int oneMillion = 1_000_000;
+	Console.WriteLine(oneMillion);
+	
+Console.WriteLine($"integer range: [{int.MinValue} => {int.MaxValue}]");
+
+char is Value type stored in the Stack :)
+	char Letter = 'A';
+	Console.WriteLine(Letter);

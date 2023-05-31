@@ -1,0 +1,15 @@
+C:\Users\CROSSHAIR 15\.My_Learning\.C#\FIFO\FIFO.Project1\bin\Debug\net6.0\FIFO.Project1.exe
+C:\Users\CROSSHAIR 15\.My_Learning\.C#\FIFO\FIFO.Project1\bin\Debug\net6.0\FIFO.Project1.deps.json
+C:\Users\CROSSHAIR 15\.My_Learning\.C#\FIFO\FIFO.Project1\bin\Debug\net6.0\FIFO.Project1.runtimeconfig.json
+C:\Users\CROSSHAIR 15\.My_Learning\.C#\FIFO\FIFO.Project1\bin\Debug\net6.0\FIFO.Project1.dll
+C:\Users\CROSSHAIR 15\.My_Learning\.C#\FIFO\FIFO.Project1\bin\Debug\net6.0\FIFO.Project1.pdb
+C:\Users\CROSSHAIR 15\.My_Learning\.C#\FIFO\FIFO.Project1\obj\Debug\net6.0\FIFO.Project1.csproj.AssemblyReference.cache
+C:\Users\CROSSHAIR 15\.My_Learning\.C#\FIFO\FIFO.Project1\obj\Debug\net6.0\FIFO.Project1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CROSSHAIR 15\.My_Learning\.C#\FIFO\FIFO.Project1\obj\Debug\net6.0\FIFO.Project1.AssemblyInfoInputs.cache
+C:\Users\CROSSHAIR 15\.My_Learning\.C#\FIFO\FIFO.Project1\obj\Debug\net6.0\FIFO.Project1.AssemblyInfo.cs
+C:\Users\CROSSHAIR 15\.My_Learning\.C#\FIFO\FIFO.Project1\obj\Debug\net6.0\FIFO.Project1.csproj.CoreCompileInputs.cache
+C:\Users\CROSSHAIR 15\.My_Learning\.C#\FIFO\FIFO.Project1\obj\Debug\net6.0\FIFO.Project1.dll
+C:\Users\CROSSHAIR 15\.My_Learning\.C#\FIFO\FIFO.Project1\obj\Debug\net6.0\refint\FIFO.Project1.dll
+C:\Users\CROSSHAIR 15\.My_Learning\.C#\FIFO\FIFO.Project1\obj\Debug\net6.0\FIFO.Project1.pdb
+C:\Users\CROSSHAIR 15\.My_Learning\.C#\FIFO\FIFO.Project1\obj\Debug\net6.0\FIFO.Project1.genruntimeconfig.cache
+C:\Users\CROSSHAIR 15\.My_Learning\.C#\FIFO\FIFO.Project1\obj\Debug\net6.0\ref\FIFO.Project1.dll

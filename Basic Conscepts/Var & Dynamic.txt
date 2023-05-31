@@ -1,0 +1,20 @@
+var and dynamic in c#
+   1. var         resolved at compile time
+		var s = "Mohamad";
+
+		var f = 0f; // float
+		var d = 0d; // double
+		var m = 0m; // decimal
+		var u = 0u; // unsigned integer 
+		var l = 0l; // long
+		var ul = 0ul; // unsigned long
+
+		int oneMillion = 1_000_000;
+		Console.WriteLine(oneMillion);
+
+
+   2. dynamic     resolved at run time (الشرح تحت)
+	 object أي حاجة بنغيرها _ أي تغيير لقيمة
+	 dynamic x = 9;
+		x = "abc";
+		x = 10m;

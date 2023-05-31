@@ -1,0 +1,30 @@
+Reference Type
+Reference Type بتتخزن في مكانين 
+Identifier in Reference Type storage in stack
+Value or Content of Identifier in Reference Type storage in Heap
+limitation of Reference type : Opened
+example of Reference type : String , dynamic, object
+
+Reference Type
+String (Reference Type)
+	string s1; // Identifier storage in stack
+	s1 = "Mohamad"; // content storage in Heap
+
+	string s2 = "AS.";
+
+Regular Concatenation (plus sign)
+	string s3 = s1 + " " + s2;
+	Console.WriteLine(s3);
+
+string interpolation 
+	string s4 = $"{s1} {s2}";
+	Console.WriteLine(s4);
+
+
+dynamic     resolved at run time (الشرح تحت)
+object أي حاجة بنغيرها _ أي تغيير لقيمة
+	dynamic x = 9;
+	x = "abc";
+	x = 10m;
+
+

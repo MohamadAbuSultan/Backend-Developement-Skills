@@ -1,0 +1,99 @@
+بناء على طلبكم للروود ماب اللي ذكرتها في مقال سابق (سائق الاوبر) ورابط المقال : https://tinyurl.com/fbf6zfsu
+الشروط:
+① غالبا لازم تكون عندك خلفية (CS50) او خريج حاسبات
+② الروود ماب اتعملت في 2019. كتحضير قبل الدخول الى ASP.NET
+③ هياكل البيانات المسخدمة (Data structure) الاكثر انتشارا.
+④ كل اسبوع من 5 ل 10 مسائل problem solving (Low/Medium)
+⑤ لازم كل موضوع يجاوب على 3 اسئلة بثقة (What, Why and How)
+⑥ معرفة جيدة في استخدام HTML + CSS
+واليكم الروود ماب (Roadmap)
+◉ ▓▓▓▓▓▓▓▓▓▓  C# ▓▓▓▓▓▓▓▓▓▓ 
+➥ Introduction (1 week)
+ ▫ framework
+ ▫ Difference between .Net Framework Vs. .NET Core Framework
+ ▫ Open source / Cross platform
+ ▫ Deep Dive on .NET Core
+ ▫ IL, CLR and .NET Core Framework
+ ▫ Types of application (console, web, desktop, mobile)
+➥ C# Fundementals (1 weeks)
+ ▫ Hello World
+ ▫ Types Overview
+ ▫ Premitive Vs. Complex Type 
+ ▫ Numeric Types
+ ▫ String Types
+ ▫ Character Type
+ ▫ Methods 
+ ▫ Variable Types (Local, Global)
+ ▫ Array 
+ ▫ Parameter vs Argument
+ ▫ Stack and heap
+ ▫ Pass by value / pass by reference
+ ▫ Statement/Expressions/Operators (if, switch, while, ....., ++, --, !=, break;)
+➥ C# Beyond Fundemental (3 weeks)
+ ▫ Classes
+ ▫ Class vs objects
+ ▫ Class Members
+ ▫ System.Object
+ ▫ Struct
+ ▫ Class Vs. Struct
+ ▫ Inheritance (4 pillars)
+ ▫ Interface
+ ▫ Enum
+➥ C# Intermediate(3 weeks)
+ ▫ Generics (class, method)
+ ▫ Delegates
+ ▫ Events
+ ▫ Exceptions
+ ▫ Extension methods
+ ▫ Lambda Expression 
+ ▫ Dynamic Binding
+ ▫ Collection And Generics both (Interfaces, classes)
+ ▫ IEnumerable Deep Dive
+ ▫ Yield keyword
+ ▫ Data Structures ( array, list, stack, queue, dictionary, hashset, LinkedList)
+ ▫ XML Documentation
+➥ C# Advanced (3 weeks)
+ ▫ Object Equality (GetHashCode, Equals)
+ ▫ Operator Overloading
+ ▫ Attribute
+ ▫ Object Disposal (GC, Finalizer, IDisposable, Automatic GC)
+ ▫ Reflection
+ ▫ Concurrent and Asynchrous Programming (Thread, Task)
+➥ RDBMS, LINQ, EF Core (5 weeks)
+ ▫ SQL Server
+ ▫ Database and Normalization
+ ▫ DDL + DML
+ ▫ Function, Stored Procedure and Views
+ ▫ LINQ Essentials
+ ▫ EF Core
+➥ Project [Console Application] 1 week.
+◉ ▓▓▓▓▓▓▓▓▓▓ Javascript ▓▓▓▓▓▓▓▓▓▓ 
+➥Basic (3 weeks)
+ ▫ Introduction to Javascript and the Browser
+ ▫ variables
+ ▫ Data types
+ ▫ data structures (indexed collection)
+ ▫ equalities
+ ▫ control structures (loops, control flow, exception)
+ ▫ expression and operator
+ ▫ functions + built in function
+ ▫ parameter and argument
+ ▫ arrow function 
+ ▫ strict mode
+➥ Advanced (5 weeks)
+ ▫ Scope and Function stack 
+ ▫ Closures.
+ ▫ this keyword and Binding
+ ▫ Iterators and Generators
+ ▫ Asynchrous programming
+ ▫ Callback and promises
+ ▫ Classes
+ ▫ Modules
+ ▫ Memory Management
+ ▫ Dev tools
+ ▫ DOM
+➥ Project [HTML, CSS, JS] (1 week)
+ــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
+#metigator
+#عصام_وتبسيط_المفاهيم
+#issam_abdelnabi
