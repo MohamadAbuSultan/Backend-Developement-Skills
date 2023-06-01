@@ -13,3 +13,18 @@ C:\Users\CROSSHAIR 15\.My_Learning\.C#\FIFO\FIFO.Project1\obj\Debug\net6.0\refin
 C:\Users\CROSSHAIR 15\.My_Learning\.C#\FIFO\FIFO.Project1\obj\Debug\net6.0\FIFO.Project1.pdb
 C:\Users\CROSSHAIR 15\.My_Learning\.C#\FIFO\FIFO.Project1\obj\Debug\net6.0\FIFO.Project1.genruntimeconfig.cache
 C:\Users\CROSSHAIR 15\.My_Learning\.C#\FIFO\FIFO.Project1\obj\Debug\net6.0\ref\FIFO.Project1.dll
+E:\My_Learning\C-sharp\FIFO\FIFO.Project1\bin\Debug\net6.0\FIFO.Project1.exe
+E:\My_Learning\C-sharp\FIFO\FIFO.Project1\bin\Debug\net6.0\FIFO.Project1.deps.json
+E:\My_Learning\C-sharp\FIFO\FIFO.Project1\bin\Debug\net6.0\FIFO.Project1.runtimeconfig.json
+E:\My_Learning\C-sharp\FIFO\FIFO.Project1\bin\Debug\net6.0\FIFO.Project1.dll
+E:\My_Learning\C-sharp\FIFO\FIFO.Project1\bin\Debug\net6.0\FIFO.Project1.pdb
+E:\My_Learning\C-sharp\FIFO\FIFO.Project1\obj\Debug\net6.0\FIFO.Project1.csproj.AssemblyReference.cache
+E:\My_Learning\C-sharp\FIFO\FIFO.Project1\obj\Debug\net6.0\FIFO.Project1.GeneratedMSBuildEditorConfig.editorconfig
+E:\My_Learning\C-sharp\FIFO\FIFO.Project1\obj\Debug\net6.0\FIFO.Project1.AssemblyInfoInputs.cache
+E:\My_Learning\C-sharp\FIFO\FIFO.Project1\obj\Debug\net6.0\FIFO.Project1.AssemblyInfo.cs
+E:\My_Learning\C-sharp\FIFO\FIFO.Project1\obj\Debug\net6.0\FIFO.Project1.csproj.CoreCompileInputs.cache
+E:\My_Learning\C-sharp\FIFO\FIFO.Project1\obj\Debug\net6.0\FIFO.Project1.dll
+E:\My_Learning\C-sharp\FIFO\FIFO.Project1\obj\Debug\net6.0\refint\FIFO.Project1.dll
+E:\My_Learning\C-sharp\FIFO\FIFO.Project1\obj\Debug\net6.0\FIFO.Project1.pdb
+E:\My_Learning\C-sharp\FIFO\FIFO.Project1\obj\Debug\net6.0\FIFO.Project1.genruntimeconfig.cache
+E:\My_Learning\C-sharp\FIFO\FIFO.Project1\obj\Debug\net6.0\ref\FIFO.Project1.dll

@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace Mohamad 
+﻿namespace Mohamad
 {
     class Program
     {
@@ -69,7 +67,7 @@ namespace Mohamad
 
             var f = 0f; // float
             var d = 0d; // double
-            var m = 0m; // decimal
+            var m = 0m; // decimal number
             var u = 0u; // unsigned integer 
             var l = 0l; // long
             var ul = 0ul; // unsigned long

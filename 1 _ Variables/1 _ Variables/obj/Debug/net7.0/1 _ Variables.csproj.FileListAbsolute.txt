@@ -1,0 +1,15 @@
+E:\My_Learning\C-sharp\1 _ Variables\1 _ Variables\bin\Debug\net7.0\1 _ Variables.exe
+E:\My_Learning\C-sharp\1 _ Variables\1 _ Variables\bin\Debug\net7.0\1 _ Variables.deps.json
+E:\My_Learning\C-sharp\1 _ Variables\1 _ Variables\bin\Debug\net7.0\1 _ Variables.runtimeconfig.json
+E:\My_Learning\C-sharp\1 _ Variables\1 _ Variables\bin\Debug\net7.0\1 _ Variables.dll
+E:\My_Learning\C-sharp\1 _ Variables\1 _ Variables\bin\Debug\net7.0\1 _ Variables.pdb
+E:\My_Learning\C-sharp\1 _ Variables\1 _ Variables\obj\Debug\net7.0\1 _ Variables.csproj.AssemblyReference.cache
+E:\My_Learning\C-sharp\1 _ Variables\1 _ Variables\obj\Debug\net7.0\1 _ Variables.GeneratedMSBuildEditorConfig.editorconfig
+E:\My_Learning\C-sharp\1 _ Variables\1 _ Variables\obj\Debug\net7.0\1 _ Variables.AssemblyInfoInputs.cache
+E:\My_Learning\C-sharp\1 _ Variables\1 _ Variables\obj\Debug\net7.0\1 _ Variables.AssemblyInfo.cs
+E:\My_Learning\C-sharp\1 _ Variables\1 _ Variables\obj\Debug\net7.0\1 _ Variables.csproj.CoreCompileInputs.cache
+E:\My_Learning\C-sharp\1 _ Variables\1 _ Variables\obj\Debug\net7.0\1 _ Variables.dll
+E:\My_Learning\C-sharp\1 _ Variables\1 _ Variables\obj\Debug\net7.0\refint\1 _ Variables.dll
+E:\My_Learning\C-sharp\1 _ Variables\1 _ Variables\obj\Debug\net7.0\1 _ Variables.pdb
+E:\My_Learning\C-sharp\1 _ Variables\1 _ Variables\obj\Debug\net7.0\1 _ Variables.genruntimeconfig.cache
+E:\My_Learning\C-sharp\1 _ Variables\1 _ Variables\obj\Debug\net7.0\ref\1 _ Variables.dll

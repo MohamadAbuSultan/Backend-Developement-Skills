@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\CROSSHAIR 15\\.My_Learning\\.CSharp\\1 _ Variables\\1 _ Variables\\1 _ Variables.csproj": {}
+    "E:\\My_Learning\\C-sharp\\1 _ Variables\\1 _ Variables\\1 _ Variables.csproj": {}
   },
   "projects": {
-    "C:\\Users\\CROSSHAIR 15\\.My_Learning\\.CSharp\\1 _ Variables\\1 _ Variables\\1 _ Variables.csproj": {
+    "E:\\My_Learning\\C-sharp\\1 _ Variables\\1 _ Variables\\1 _ Variables.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\CROSSHAIR 15\\.My_Learning\\.CSharp\\1 _ Variables\\1 _ Variables\\1 _ Variables.csproj",
+        "projectUniqueName": "E:\\My_Learning\\C-sharp\\1 _ Variables\\1 _ Variables\\1 _ Variables.csproj",
         "projectName": "1 _ Variables",
-        "projectPath": "C:\\Users\\CROSSHAIR 15\\.My_Learning\\.CSharp\\1 _ Variables\\1 _ Variables\\1 _ Variables.csproj",
+        "projectPath": "E:\\My_Learning\\C-sharp\\1 _ Variables\\1 _ Variables\\1 _ Variables.csproj",
         "packagesPath": "C:\\Users\\CROSSHAIR 15\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\CROSSHAIR 15\\.My_Learning\\.CSharp\\1 _ Variables\\1 _ Variables\\obj\\",
+        "outputPath": "E:\\My_Learning\\C-sharp\\1 _ Variables\\1 _ Variables\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -22,15 +22,15 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net7.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net7.0": {
+            "targetAlias": "net7.0",
             "projectReferences": {}
           }
         },
@@ -41,8 +41,8 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net7.0": {
+          "targetAlias": "net7.0",
           "imports": [
             "net461",
             "net462",
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }
