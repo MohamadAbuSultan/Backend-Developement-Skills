@@ -34,9 +34,9 @@
             Console.WriteLine("Hello World");
             // 2. Statement blocks مجموعة من الجمل داخل ال curly brace
             {
-                Console.WriteLine("Hi");
-                Console.WriteLine("Hi");
-                Console.WriteLine("Hi");
+                Console.Write("Hi ");
+                Console.Write("Hi ");
+                Console.Write("Hi ");
                 Console.WriteLine("Hi");
             }
 
@@ -123,11 +123,11 @@
             object o = "mohamad";
             switch (o)
             {
-                case int i:
-                    Console.WriteLine($"It's int, sqr of {i} = {i * i}");
+                case int j:
+                    Console.WriteLine($"It's int, sqr of {j} = {j * j}");
                     break;
-                case string i:
-                    Console.WriteLine($"It's string, capitalization of {i} = {i.ToUpper()}");
+                case string j:
+                    Console.WriteLine($"It's string, capitalization of {j} = {j.ToUpper()}");
                     break;
             }
 
@@ -135,17 +135,17 @@
             bool isVip = true;
             switch (isVip)
             {
-                case bool i when i == true:
+                case bool j when j == true:
                     Console.WriteLine("Yes");
                     break;
-                case bool i:
+                case bool j:
                     Console.WriteLine("No");
                     break;
             }
 
             // switch expression 
             // => lambda expression
-            var cardNo = 4;
+            var cardNo = 13;
             string cardName = cardNo switch
             {
                 1 => "ACE",
@@ -155,6 +155,118 @@
                 _ => cardNo.ToString() // string غير الأرقام إلي فوق ، رجع الرقم ك نص
             };
             Console.WriteLine(cardName);
+
+            // Iterations 
+            // while 
+            // Logical Expression بداخل ال while (الشرط)
+            Console.Write("This is While : ");
+            var counter = 0;
+            while (counter < 10)
+            {
+                Console.Write(counter++ + " ");
+            }
+
+            counter = 0;
+            Console.Write("\nThis is Do While : ");
+            // do while
+            do
+            {
+                Console.Write(counter + " ");
+                counter++;
+            } while (counter < 10);
+
+            Console.Write("\nThis is For : ");
+
+            // for
+            for (var j = 0; j < 10; ++j)
+            {
+                Console.Write(j + " ");
+            }
+
+            Console.WriteLine();
+
+            // Fibonacci { 0, 1, 1, 2, 3, 5, 8, 13, 21, 34}
+            Console.Write("Fibonacci Numbers : ");
+            for (int j = 0, prev = 0, current = 1; j < 10; ++j)
+            {
+                Console.Write(prev + " ");
+                int newFib = prev + current;
+                prev = current;
+                current = newFib;
+            }
+
+            Console.WriteLine();
+
+            /* 
+                infinite loop
+                for (; ; )
+                {
+                    Console.WriteLine(i);
+                }
+            */
+
+            Console.Write("This is foreach : ");
+            // foreach ، eazy for use ، more readable
+            foreach (char c in "Full Stack Web Developer course")
+            {
+                Console.Write(c + " ");
+            }
+
+            Console.WriteLine();
+
+            Console.Write("This is foreach that print array : ");
+
+            var arr = new int[] { 1, 2, 4 };
+            foreach (var n in arr)
+            { Console.Write(n + " "); }
+
+            Console.Write("\nThis is For that print array : ");
+            for (int j = 0; j < arr.Length; j++)
+            { Console.Write(arr[j] + " "); }
+
+            Console.WriteLine();
+
+            // Jump statement (break, continue, goto, return) | جمل القفز
+            // break لإنهاء اللوب وعدم إكماله
+            Console.Write("This is for loop with break statement : ");
+            x = 0;
+            while (x < 10)
+            {
+                if (x > 5)
+                    break;
+                Console.Write(x++ + " ");
+            }
+
+            // continue بتعمل سكيب للخطوة 
+            Console.Write("\nThis is for loop with continue statement : ");
+            for (int j = 0; j < 11; j++)
+            {
+                if (j % 2 == 0)
+                    continue;
+                Console.Write(j + " ");
+            }
+
+            // goto ، الشرح في المثال نفسه
+            Console.Write("\nThis is for loop with goto statement : ");
+            int i = 0;
+        start:
+            if (i <= 5)
+            {
+                Console.Write(i++ + " ");
+                goto start;
+            }
+
+            // return
+            var input = .44m;
+            var result = AsPercentage(input);
+            Console.WriteLine("\n" + result);
+
+            Console.WriteLine();
+        }
+
+        static decimal AsPercentage(decimal value)
+        {
+            return value * 100;
         }
     }
 }
