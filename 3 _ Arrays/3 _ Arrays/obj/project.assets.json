@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\CROSSHAIR 15\\.My_Learning\\.C#\\3 _ Arrays\\3 _ Arrays\\3 _ Arrays.csproj",
+      "projectUniqueName": "E:\\My_Learning\\C-sharp\\3 _ Arrays\\3 _ Arrays\\3 _ Arrays.csproj",
       "projectName": "3 _ Arrays",
-      "projectPath": "C:\\Users\\CROSSHAIR 15\\.My_Learning\\.C#\\3 _ Arrays\\3 _ Arrays\\3 _ Arrays.csproj",
+      "projectPath": "E:\\My_Learning\\C-sharp\\3 _ Arrays\\3 _ Arrays\\3 _ Arrays.csproj",
       "packagesPath": "C:\\Users\\CROSSHAIR 15\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\CROSSHAIR 15\\.My_Learning\\.C#\\3 _ Arrays\\3 _ Arrays\\obj\\",
+      "outputPath": "E:\\My_Learning\\C-sharp\\3 _ Arrays\\3 _ Arrays\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -66,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }
