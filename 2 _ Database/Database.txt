@@ -1,0 +1,130 @@
+﻿Eng : mohamad khaled
+DATABASE مركز البيانات
+Introduction
+A database is an organized collection of structured information or data, typically stored electronically in a computer system.
+
+
+SQL : Structured Query Language - is the supported language by RBDMS(Risk Based Data Management System)
+sql is a declarative programming language
+sql is a specific purpose to query data لغة خاصة فقط لإستعلام البيانات
+
+
+Difference Between ( declarative and imperative programming language )
+imperative : output أنت بتحكيلوا كيف يعمل لحتى يرجعلك نتائج
+declarative : data بتحكيلوا شو بدك وهو بقرر كيف يجيب الداتا
+
+
+SQL Commands /W Categories :-
+
+
+DDL (Data Definition Language): CREATE - ALTER - DROP - RENAME - TRUNCATE - COMMENT
+DML (Data Manipulation Language): SELECT - INSERT - UPDATE - DELETE - MERGE - CALL - EXPLAIN PLAN - LOCK TABLE
+TCL (Transaction Control Language): COMMIT - ROLLBACK - SAVEPOINT - SET TRANSACTION
+DCL (Data Control Language): Grant - Revoke
+
+
+sql server architecture :-
+1- SNI Server Establish a SECURE Connection TCP/IP
+2- Connection Created to TDS END POINT
+3- Client Wrap SQL Statement in a TDS MESSAGE and sent it
+4- Protocol Layer UNWRAP the TDS MESSAGE => CMD PARSER
+5- Command PARSER Statement Valid step 6 else return ERROR
+6- if plan is cached ,Pass it to QUERY EXECUTER step 9
+7- Command PARSER Pass Query tree to Optimizer
+8- Query Optimizer choose best plans pass it to query executor
+9- Query EXECUTER suitable access method in storage engine
+10- Access method request / buffer manager - buffer pool
+11- Page is not cached buffer manager fetch data from data file 
+12- Buffer manager cache the result in buffer pool
+13- Buffer Manager send the result to access method
+14- Query EXECUTER will return the result to SNI Server
+15- SNI Server wrap the output in a TDS packate
+
+
+
+
+Database Normalization :-
+
+
+المشاكل إلي ممكن تصير لما تسوي داتابيز على حسب طلب العميل 
+(مثلاً لو برنامج وورد وبدك تنسخ الجداول كما هي)
+redundancy : تكرار
+inconsistent dependency : عدم تناسق
+
+
+حل هاي المشاكل كلها:- database normalization تحسين الداتا بيز
+Normalization is the process of splitting relations into well-structured relations that allow users to insert, delete, and update tuples without introducing database inconsistencies.[a]
+
+
+Database Anomalies[b] : are the problems in relations that occur due to redundancy in the relations.
+
+
+Types of Anomalies:-
+1. Insert Anomaly
+        can not insert a project unless employee is assigned to it
+        can not insert an employee unless he/she is assigned to project
+        
+2. Update Anomaly
+        change a project name leads to change it for all employees 
+        can't avoid mistakes
+        
+3. Delete Anomaly
+        if we delete bridge project all employees connected to bridget project will be lost
+        if only one employee is working in project, deleting him/her will delete project
+
+
+
+
+Super keys => All Combinations => 2^n - 1 
+candidate key : proper subset of super key is super key
+هيطلع الأقل candidate key ال super key عملية فلترة ال 
+(Primary Key) : one of candidate key where its value != Null
+
+
+all key within candidate key : Prime Attribute
+all key out of candidate key : Non-Prime Attribute
+
+
+Row = Record = Tuple
+Column = Attribute = Field
+
+
+1st normal form => 1NF
+=> Primary Key 
+=> Domain Value preserved (كل عمود لازم يكون فيه البيانات تابعة ل دومين ، الأرقام كلها أرقام ، النصوص كلها نصوص)
+=> Atomic value (يعني ما بتقدر تقسمه أكثر)
+
+
+Fk”foreign key” قيمه ⊆(subset) of Pk”primary key”
+قيم ال foreign key مأخوذة من primary key
+
+
+2nd normal form => 2NF
+=> 1NF
+=> composite key => all non key attribute are fully dependent on table primary key
+=> single key => by default fully dependency satisfied
+=> vertical redundancy 
+
+
+3rd normal form => 3NF
+=> 2NF
+=> all non key attribute are solely dependent on the table primary كل واحد بيعتمد على واحد فقط
+
+
+35NF Boyce Codd Normal Form(BCNF)
+=> 3rd NF
+=> composite key
+=> super key
+
+
+
+
+good DB design :-
+1NF  => horizontal Dependency
+2NF  => vertical Dependency
+3NF  => transitive Dependency
+BCNF => 3.5 => Stricter  3NF Shape
+
+
+[a]Normalization is the process of organizing data in a database. This includes creating tables and establishing relationships between those tables according to rules designed both to protect the data and to make the database more flexible by eliminating redundancy and inconsistent dependency.
+[b]problems arise from relations that are generated directly from user views
