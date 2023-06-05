@@ -57,12 +57,104 @@
             --totalFriends;
             Console.WriteLine(totalFriends);
             // 4. Object Instansiation
-            object o = new object();
+            object ob = new object();
 
 
             // Selection statement if, if else, switch | جمل الاختيار
-            var mark = 90;
-            if (mark >= 85) Console.WriteLine("Excellent");
+            // if
+            /* var mark = 90;
+               if (mark >= 85) Console.WriteLine("Excellent");
+               if else
+               else Console.WriteLine("F"); */
+            var mark = 55;
+            if (mark >= 60) Console.WriteLine("Pass");
+            else if (mark >= 55) Console.WriteLine("You have a chance in a make up exam");
+            else Console.WriteLine("Fail");
+            // nested if بنسميها if بداخل if بتقدر تكتب 
+
+            // switch
+            var amountJOD = 100; // JOD إختصار للدينار الأردني
+            var currType = "USD"; // curr = currency = عملة
+            var output = 0d; // d : double
+            // JOD => USD = 1.41
+            // JOD => EUR = 1.19
+            // JOD => CAD = 1.78
+            var JODTOUSD = 1.41;
+            var EURTOUSD = 1.19;
+            var CADTOUSD = 1.78;
+            switch (currType)
+            {
+                case "USD":
+                    output = amountJOD * JODTOUSD;
+                    Console.WriteLine($"{amountJOD} JOD = ${output} USD");
+                    break;
+                case "EUR":
+                    output = amountJOD * EURTOUSD;
+                    Console.WriteLine($"{amountJOD} JOD = ${output} EUR");
+                    break;
+                case "CAD":
+                    output = amountJOD * CADTOUSD;
+                    Console.WriteLine($"{amountJOD} JOD = ${output} CAD");
+                    break;
+                default:
+                    Console.WriteLine("Unknown currency type");
+                    break;
+            }
+
+            // switch أكثر من حالة تحقق الشرط
+            var num = 3;
+            switch (num)
+            {
+                case 1:
+                case 3:
+                case 5:
+                case 7:
+                    Console.WriteLine("Odd");
+                    break;
+                case 2:
+                case 4:
+                case 6:
+                case 8:
+                    Console.WriteLine("Even");
+                    break;
+            }
+
+            // switch on types
+            object o = "mohamad";
+            switch (o)
+            {
+                case int i:
+                    Console.WriteLine($"It's int, sqr of {i} = {i * i}");
+                    break;
+                case string i:
+                    Console.WriteLine($"It's string, capitalization of {i} = {i.ToUpper()}");
+                    break;
+            }
+
+            // switch _ predict توقع
+            bool isVip = true;
+            switch (isVip)
+            {
+                case bool i when i == true:
+                    Console.WriteLine("Yes");
+                    break;
+                case bool i:
+                    Console.WriteLine("No");
+                    break;
+            }
+
+            // switch expression 
+            // => lambda expression
+            var cardNo = 4;
+            string cardName = cardNo switch
+            {
+                1 => "ACE",
+                13 => "KING",
+                12 => "QUEEN",
+                10 => "JACK",
+                _ => cardNo.ToString() // string غير الأرقام إلي فوق ، رجع الرقم ك نص
+            };
+            Console.WriteLine(cardName);
         }
     }
 }
