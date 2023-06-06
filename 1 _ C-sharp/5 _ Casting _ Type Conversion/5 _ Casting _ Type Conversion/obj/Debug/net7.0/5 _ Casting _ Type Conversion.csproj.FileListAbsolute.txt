@@ -1,0 +1,15 @@
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\5 _ Casting _ Type Conversion\5 _ Casting _ Type Conversion\bin\Debug\net7.0\5 _ Casting _ Type Conversion.exe
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\5 _ Casting _ Type Conversion\5 _ Casting _ Type Conversion\bin\Debug\net7.0\5 _ Casting _ Type Conversion.deps.json
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\5 _ Casting _ Type Conversion\5 _ Casting _ Type Conversion\bin\Debug\net7.0\5 _ Casting _ Type Conversion.runtimeconfig.json
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\5 _ Casting _ Type Conversion\5 _ Casting _ Type Conversion\bin\Debug\net7.0\5 _ Casting _ Type Conversion.dll
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\5 _ Casting _ Type Conversion\5 _ Casting _ Type Conversion\bin\Debug\net7.0\5 _ Casting _ Type Conversion.pdb
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\5 _ Casting _ Type Conversion\5 _ Casting _ Type Conversion\obj\Debug\net7.0\5 _ Casting _ Type Conversion.csproj.AssemblyReference.cache
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\5 _ Casting _ Type Conversion\5 _ Casting _ Type Conversion\obj\Debug\net7.0\5 _ Casting _ Type Conversion.GeneratedMSBuildEditorConfig.editorconfig
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\5 _ Casting _ Type Conversion\5 _ Casting _ Type Conversion\obj\Debug\net7.0\5 _ Casting _ Type Conversion.AssemblyInfoInputs.cache
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\5 _ Casting _ Type Conversion\5 _ Casting _ Type Conversion\obj\Debug\net7.0\5 _ Casting _ Type Conversion.AssemblyInfo.cs
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\5 _ Casting _ Type Conversion\5 _ Casting _ Type Conversion\obj\Debug\net7.0\5 _ Casting _ Type Conversion.csproj.CoreCompileInputs.cache
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\5 _ Casting _ Type Conversion\5 _ Casting _ Type Conversion\obj\Debug\net7.0\5 _ Casting _ Type Conversion.dll
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\5 _ Casting _ Type Conversion\5 _ Casting _ Type Conversion\obj\Debug\net7.0\refint\5 _ Casting _ Type Conversion.dll
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\5 _ Casting _ Type Conversion\5 _ Casting _ Type Conversion\obj\Debug\net7.0\5 _ Casting _ Type Conversion.pdb
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\5 _ Casting _ Type Conversion\5 _ Casting _ Type Conversion\obj\Debug\net7.0\5 _ Casting _ Type Conversion.genruntimeconfig.cache
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\5 _ Casting _ Type Conversion\5 _ Casting _ Type Conversion\obj\Debug\net7.0\ref\5 _ Casting _ Type Conversion.dll
