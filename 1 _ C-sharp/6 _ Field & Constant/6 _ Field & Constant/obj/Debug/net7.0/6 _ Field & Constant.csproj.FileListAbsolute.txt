@@ -1,0 +1,15 @@
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\6 _ Field & Constant\6 _ Field & Constant\bin\Debug\net7.0\6 _ Field & Constant.exe
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\6 _ Field & Constant\6 _ Field & Constant\bin\Debug\net7.0\6 _ Field & Constant.deps.json
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\6 _ Field & Constant\6 _ Field & Constant\bin\Debug\net7.0\6 _ Field & Constant.runtimeconfig.json
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\6 _ Field & Constant\6 _ Field & Constant\bin\Debug\net7.0\6 _ Field & Constant.dll
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\6 _ Field & Constant\6 _ Field & Constant\bin\Debug\net7.0\6 _ Field & Constant.pdb
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\6 _ Field & Constant\6 _ Field & Constant\obj\Debug\net7.0\6 _ Field & Constant.csproj.AssemblyReference.cache
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\6 _ Field & Constant\6 _ Field & Constant\obj\Debug\net7.0\6 _ Field & Constant.GeneratedMSBuildEditorConfig.editorconfig
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\6 _ Field & Constant\6 _ Field & Constant\obj\Debug\net7.0\6 _ Field & Constant.AssemblyInfoInputs.cache
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\6 _ Field & Constant\6 _ Field & Constant\obj\Debug\net7.0\6 _ Field & Constant.AssemblyInfo.cs
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\6 _ Field & Constant\6 _ Field & Constant\obj\Debug\net7.0\6 _ Field & Constant.csproj.CoreCompileInputs.cache
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\6 _ Field & Constant\6 _ Field & Constant\obj\Debug\net7.0\6 _ Field & Constant.dll
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\6 _ Field & Constant\6 _ Field & Constant\obj\Debug\net7.0\refint\6 _ Field & Constant.dll
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\6 _ Field & Constant\6 _ Field & Constant\obj\Debug\net7.0\6 _ Field & Constant.pdb
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\6 _ Field & Constant\6 _ Field & Constant\obj\Debug\net7.0\6 _ Field & Constant.genruntimeconfig.cache
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\6 _ Field & Constant\6 _ Field & Constant\obj\Debug\net7.0\ref\6 _ Field & Constant.dll
