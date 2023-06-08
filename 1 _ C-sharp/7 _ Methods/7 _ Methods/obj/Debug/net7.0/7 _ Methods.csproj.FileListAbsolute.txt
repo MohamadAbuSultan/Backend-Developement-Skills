@@ -1,0 +1,15 @@
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\7 _ Methods\7 _ Methods\obj\Debug\net7.0\7 _ Methods.csproj.AssemblyReference.cache
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\7 _ Methods\7 _ Methods\obj\Debug\net7.0\7 _ Methods.GeneratedMSBuildEditorConfig.editorconfig
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\7 _ Methods\7 _ Methods\obj\Debug\net7.0\7 _ Methods.AssemblyInfoInputs.cache
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\7 _ Methods\7 _ Methods\obj\Debug\net7.0\7 _ Methods.AssemblyInfo.cs
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\7 _ Methods\7 _ Methods\obj\Debug\net7.0\7 _ Methods.csproj.CoreCompileInputs.cache
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\7 _ Methods\7 _ Methods\bin\Debug\net7.0\7 _ Methods.exe
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\7 _ Methods\7 _ Methods\bin\Debug\net7.0\7 _ Methods.deps.json
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\7 _ Methods\7 _ Methods\bin\Debug\net7.0\7 _ Methods.runtimeconfig.json
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\7 _ Methods\7 _ Methods\bin\Debug\net7.0\7 _ Methods.dll
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\7 _ Methods\7 _ Methods\bin\Debug\net7.0\7 _ Methods.pdb
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\7 _ Methods\7 _ Methods\obj\Debug\net7.0\7 _ Methods.dll
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\7 _ Methods\7 _ Methods\obj\Debug\net7.0\refint\7 _ Methods.dll
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\7 _ Methods\7 _ Methods\obj\Debug\net7.0\7 _ Methods.pdb
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\7 _ Methods\7 _ Methods\obj\Debug\net7.0\7 _ Methods.genruntimeconfig.cache
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\7 _ Methods\7 _ Methods\obj\Debug\net7.0\ref\7 _ Methods.dll
