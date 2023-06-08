@@ -1,0 +1,15 @@
+By Value 
+public void CalculateAge(int Age) 
+{
+	// Age بتنبعت by value
+	Age = Age + 3;
+	Console.WriteLine(Age);
+}
+
+static void Main(string[] args)
+{
+	var Age = 19;
+	demo.CalculateAge(Age); // 22
+	Console.WriteLine(Age); // 19 
+}
+// بتضلها ثابتة وما بتتغير (mainالتي بداخل ال) Age هنا

@@ -1,0 +1,5 @@
+	Parameters : are the variables that we can define in the function declaration	
+	public void CalculateAge(int Age){} // Age is parameter
+
+	Arguments : are the variables given to the function for execution    
+	demo.CalculateAge(18); // 18 is the argument passed

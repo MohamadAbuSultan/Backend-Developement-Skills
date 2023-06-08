@@ -1,0 +1,16 @@
+By Reference
+
+public void DoAnything(ref int Age) 
+{
+	// Age بتنبعت by Reference
+	Age = Age + 3;
+}
+
+static void Main(string[] args)
+{
+var Age = 19;
+
+demo.DoAnything(ref Age); // تصبح قيمتها 22
+
+Console.WriteLine(Age); // تصبح قيمتها 22
+}
