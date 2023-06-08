@@ -1,0 +1,7 @@
+Method Syntax(simple)
+<AccessModifier> <DataType>/void MethodName (<Parameter List>)
+{
+     // series of statement
+}
+
+// Parameter List >= 0 يعني ممكن يكون في براميتر وممكن لا عادي

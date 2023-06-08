@@ -3,10 +3,11 @@
     //<ClassModifier> -> public, internal(default) متاح ضمن قيود معينة
     public class Employee //<ClassModifier> class <ClassName>
     {
-        // <accessModifier> public, private, protected
-        // Constant  -> <AccessModifier> const <DataType> <ConstantName> = <Value>;
 
         /* 
+            // <accessModifier> public, private, protected
+            // Constant  -> <AccessModifier> const <DataType> <ConstantName> = <Value>;
+
             * Constant is a promise that can not be changed after it has been initialized
             * static member is a shared variable that can be changed after it has been initialized       
         */
