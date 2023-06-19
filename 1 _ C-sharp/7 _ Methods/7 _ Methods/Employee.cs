@@ -18,5 +18,21 @@
         public string? LName;
         public double Wage;
         public double LoggedHours;
+
+        private double Calculate() => Wage * LoggedHours;
+        private double CalculateTax() => Calculate() * TAX;
+        private double CalculateNet() => Calculate() - CalculateTax();
+
+        public string PrintSlip()
+        {
+            return $"\nFirst Name : {FName}" +
+                   $"\nLast Name : {LName}" +
+                   $"\nWage : {Wage}" +
+                   $"\nlogged hours : {LoggedHours}" +
+                   "\n-----------------------" +
+                   $"\nSalary : {Calculate()}" +
+                   $"\nDeductable Tax ({TAX * 100}%) Amount : {CalculateTax()}" +
+                   $"\nnet salary : {CalculateNet()}";
+        }
     }
 }

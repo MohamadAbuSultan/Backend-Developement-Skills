@@ -24,18 +24,9 @@
             Console.Write("Enter the Logged Hours : ");
             employee.LoggedHours = Convert.ToDouble(Console.ReadLine());
 
-            /*var netSalary = employee.Wage * employee.LoggedHours - (employee.Wage * employee.LoggedHours * Employee.TAX);
-
-            //Console.WriteLine($"First Name : {employee.FName}");
-            //Console.WriteLine($"Last Name : {employee.LName}");
-            //Console.WriteLine($"Wage : {employee.Wage}");
-            //Console.WriteLine($"logged hours : {employee.LoggedHours}");
-            //Console.WriteLine($"net salary : {netSalary}"); */
-
             Employee[] employees = new Employee[2];
 
             employees[0] = employee;
-
 
             Console.WriteLine("\nSecond Employee");
 
@@ -57,17 +48,7 @@
 
             foreach (var employee1 in employees)
             {
-                var salary = employee1.Wage * employee1.LoggedHours;
-                var taxAmount = salary * Employee.TAX;
-                var netSalary = salary - taxAmount;
-                Console.WriteLine($"First Name : {employee1.FName}");
-                Console.WriteLine($"Last Name : {employee1.LName}");
-                Console.WriteLine($"Wage : {employee1.Wage}");
-                Console.WriteLine($"logged hours : {employee1.LoggedHours}");
-                Console.WriteLine("-----------------------");
-                Console.WriteLine($"Salary : {salary}");
-                Console.WriteLine($"Deductable Tax ({Employee.TAX * 100}%) Amount : {taxAmount}");
-                Console.WriteLine($"net salary : {netSalary}");
+                Console.WriteLine(employee.PrintSlip());
             }
         }
     }
