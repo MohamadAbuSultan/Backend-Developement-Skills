@@ -1,0 +1,15 @@
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\8 _ Constructor\8 _ Constructor\bin\Debug\net7.0\8 _ Constructor.exe
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\8 _ Constructor\8 _ Constructor\bin\Debug\net7.0\8 _ Constructor.deps.json
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\8 _ Constructor\8 _ Constructor\bin\Debug\net7.0\8 _ Constructor.runtimeconfig.json
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\8 _ Constructor\8 _ Constructor\bin\Debug\net7.0\8 _ Constructor.dll
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\8 _ Constructor\8 _ Constructor\bin\Debug\net7.0\8 _ Constructor.pdb
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\8 _ Constructor\8 _ Constructor\obj\Debug\net7.0\8 _ Constructor.csproj.AssemblyReference.cache
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\8 _ Constructor\8 _ Constructor\obj\Debug\net7.0\8 _ Constructor.GeneratedMSBuildEditorConfig.editorconfig
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\8 _ Constructor\8 _ Constructor\obj\Debug\net7.0\8 _ Constructor.AssemblyInfoInputs.cache
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\8 _ Constructor\8 _ Constructor\obj\Debug\net7.0\8 _ Constructor.AssemblyInfo.cs
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\8 _ Constructor\8 _ Constructor\obj\Debug\net7.0\8 _ Constructor.csproj.CoreCompileInputs.cache
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\8 _ Constructor\8 _ Constructor\obj\Debug\net7.0\8 _ Constructor.dll
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\8 _ Constructor\8 _ Constructor\obj\Debug\net7.0\refint\8 _ Constructor.dll
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\8 _ Constructor\8 _ Constructor\obj\Debug\net7.0\8 _ Constructor.pdb
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\8 _ Constructor\8 _ Constructor\obj\Debug\net7.0\8 _ Constructor.genruntimeconfig.cache
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\8 _ Constructor\8 _ Constructor\obj\Debug\net7.0\ref\8 _ Constructor.dll
