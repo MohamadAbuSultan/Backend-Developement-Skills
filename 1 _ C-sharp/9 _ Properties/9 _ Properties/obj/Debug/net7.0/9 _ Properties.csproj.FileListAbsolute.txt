@@ -1,0 +1,15 @@
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\9 _ Properties\9 _ Properties\bin\Debug\net7.0\9 _ Properties.exe
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\9 _ Properties\9 _ Properties\bin\Debug\net7.0\9 _ Properties.deps.json
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\9 _ Properties\9 _ Properties\bin\Debug\net7.0\9 _ Properties.runtimeconfig.json
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\9 _ Properties\9 _ Properties\bin\Debug\net7.0\9 _ Properties.dll
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\9 _ Properties\9 _ Properties\bin\Debug\net7.0\9 _ Properties.pdb
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\9 _ Properties\9 _ Properties\obj\Debug\net7.0\9 _ Properties.csproj.AssemblyReference.cache
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\9 _ Properties\9 _ Properties\obj\Debug\net7.0\9 _ Properties.GeneratedMSBuildEditorConfig.editorconfig
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\9 _ Properties\9 _ Properties\obj\Debug\net7.0\9 _ Properties.AssemblyInfoInputs.cache
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\9 _ Properties\9 _ Properties\obj\Debug\net7.0\9 _ Properties.AssemblyInfo.cs
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\9 _ Properties\9 _ Properties\obj\Debug\net7.0\9 _ Properties.csproj.CoreCompileInputs.cache
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\9 _ Properties\9 _ Properties\obj\Debug\net7.0\9 _ Properties.dll
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\9 _ Properties\9 _ Properties\obj\Debug\net7.0\refint\9 _ Properties.dll
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\9 _ Properties\9 _ Properties\obj\Debug\net7.0\9 _ Properties.pdb
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\9 _ Properties\9 _ Properties\obj\Debug\net7.0\9 _ Properties.genruntimeconfig.cache
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\9 _ Properties\9 _ Properties\obj\Debug\net7.0\ref\9 _ Properties.dll
