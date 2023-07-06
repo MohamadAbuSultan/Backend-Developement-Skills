@@ -1,0 +1,15 @@
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\10 _ Indexers\10 _ Indexers\bin\Debug\net7.0\10 _ Indexers.exe
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\10 _ Indexers\10 _ Indexers\bin\Debug\net7.0\10 _ Indexers.deps.json
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\10 _ Indexers\10 _ Indexers\bin\Debug\net7.0\10 _ Indexers.runtimeconfig.json
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\10 _ Indexers\10 _ Indexers\bin\Debug\net7.0\10 _ Indexers.dll
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\10 _ Indexers\10 _ Indexers\bin\Debug\net7.0\10 _ Indexers.pdb
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\10 _ Indexers\10 _ Indexers\obj\Debug\net7.0\10 _ Indexers.csproj.AssemblyReference.cache
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\10 _ Indexers\10 _ Indexers\obj\Debug\net7.0\10 _ Indexers.GeneratedMSBuildEditorConfig.editorconfig
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\10 _ Indexers\10 _ Indexers\obj\Debug\net7.0\10 _ Indexers.AssemblyInfoInputs.cache
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\10 _ Indexers\10 _ Indexers\obj\Debug\net7.0\10 _ Indexers.AssemblyInfo.cs
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\10 _ Indexers\10 _ Indexers\obj\Debug\net7.0\10 _ Indexers.csproj.CoreCompileInputs.cache
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\10 _ Indexers\10 _ Indexers\obj\Debug\net7.0\10 _ Indexers.dll
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\10 _ Indexers\10 _ Indexers\obj\Debug\net7.0\refint\10 _ Indexers.dll
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\10 _ Indexers\10 _ Indexers\obj\Debug\net7.0\10 _ Indexers.pdb
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\10 _ Indexers\10 _ Indexers\obj\Debug\net7.0\10 _ Indexers.genruntimeconfig.cache
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\10 _ Indexers\10 _ Indexers\obj\Debug\net7.0\ref\10 _ Indexers.dll
