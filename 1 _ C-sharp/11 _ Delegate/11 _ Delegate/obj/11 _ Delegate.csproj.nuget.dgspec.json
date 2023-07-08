@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\My_Learning\\Backend Developement Skills  مهارات تطوير البنى التحتية\\1 _ C-sharp\\2 _ Boolean Types + Operators\\2 _ Boolean Types + Operators\\2 _ Boolean Types + Operators.csproj": {}
+    "E:\\My_Learning\\Backend Developement Skills  مهارات تطوير البنى التحتية\\1 _ C-sharp\\11 _ Delegate\\11 _ Delegate\\11 _ Delegate.csproj": {}
   },
   "projects": {
-    "E:\\My_Learning\\Backend Developement Skills  مهارات تطوير البنى التحتية\\1 _ C-sharp\\2 _ Boolean Types + Operators\\2 _ Boolean Types + Operators\\2 _ Boolean Types + Operators.csproj": {
+    "E:\\My_Learning\\Backend Developement Skills  مهارات تطوير البنى التحتية\\1 _ C-sharp\\11 _ Delegate\\11 _ Delegate\\11 _ Delegate.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\My_Learning\\Backend Developement Skills  مهارات تطوير البنى التحتية\\1 _ C-sharp\\2 _ Boolean Types + Operators\\2 _ Boolean Types + Operators\\2 _ Boolean Types + Operators.csproj",
-        "projectName": "2 _ Boolean Types + Operators",
-        "projectPath": "E:\\My_Learning\\Backend Developement Skills  مهارات تطوير البنى التحتية\\1 _ C-sharp\\2 _ Boolean Types + Operators\\2 _ Boolean Types + Operators\\2 _ Boolean Types + Operators.csproj",
+        "projectUniqueName": "E:\\My_Learning\\Backend Developement Skills  مهارات تطوير البنى التحتية\\1 _ C-sharp\\11 _ Delegate\\11 _ Delegate\\11 _ Delegate.csproj",
+        "projectName": "11 _ Delegate",
+        "projectPath": "E:\\My_Learning\\Backend Developement Skills  مهارات تطوير البنى التحتية\\1 _ C-sharp\\11 _ Delegate\\11 _ Delegate\\11 _ Delegate.csproj",
         "packagesPath": "C:\\Users\\CROSSHAIR 15\\.nuget\\packages\\",
-        "outputPath": "E:\\My_Learning\\Backend Developement Skills  مهارات تطوير البنى التحتية\\1 _ C-sharp\\2 _ Boolean Types + Operators\\2 _ Boolean Types + Operators\\obj\\",
+        "outputPath": "E:\\My_Learning\\Backend Developement Skills  مهارات تطوير البنى التحتية\\1 _ C-sharp\\11 _ Delegate\\11 _ Delegate\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -22,15 +22,15 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net7.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net7.0": {
+            "targetAlias": "net7.0",
             "projectReferences": {}
           }
         },
@@ -41,8 +41,8 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net7.0": {
+          "targetAlias": "net7.0",
           "imports": [
             "net461",
             "net462",

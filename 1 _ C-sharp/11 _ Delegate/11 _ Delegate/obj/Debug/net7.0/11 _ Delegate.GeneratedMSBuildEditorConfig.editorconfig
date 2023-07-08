@@ -1,5 +1,5 @@
 is_global = true
-build_property.TargetFramework = net6.0
+build_property.TargetFramework = net7.0
 build_property.TargetPlatformMinVersion = 
 build_property.UsingMicrosoftNETSdkWeb = 
 build_property.ProjectTypeGuids = 
@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = _2___Boolean_Types___Operators
-build_property.ProjectDir = E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\2 _ Boolean Types + Operators\2 _ Boolean Types + Operators\
+build_property.RootNamespace = _11___Delegate
+build_property.ProjectDir = E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\11 _ Delegate\11 _ Delegate\
