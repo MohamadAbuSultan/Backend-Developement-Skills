@@ -1,0 +1,15 @@
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\12 _ Events\12 _ Events\bin\Debug\net7.0\12 _ Events.exe
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\12 _ Events\12 _ Events\bin\Debug\net7.0\12 _ Events.deps.json
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\12 _ Events\12 _ Events\bin\Debug\net7.0\12 _ Events.runtimeconfig.json
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\12 _ Events\12 _ Events\bin\Debug\net7.0\12 _ Events.dll
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\12 _ Events\12 _ Events\bin\Debug\net7.0\12 _ Events.pdb
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\12 _ Events\12 _ Events\obj\Debug\net7.0\12 _ Events.csproj.AssemblyReference.cache
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\12 _ Events\12 _ Events\obj\Debug\net7.0\12 _ Events.GeneratedMSBuildEditorConfig.editorconfig
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\12 _ Events\12 _ Events\obj\Debug\net7.0\12 _ Events.AssemblyInfoInputs.cache
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\12 _ Events\12 _ Events\obj\Debug\net7.0\12 _ Events.AssemblyInfo.cs
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\12 _ Events\12 _ Events\obj\Debug\net7.0\12 _ Events.csproj.CoreCompileInputs.cache
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\12 _ Events\12 _ Events\obj\Debug\net7.0\12 _ Events.dll
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\12 _ Events\12 _ Events\obj\Debug\net7.0\refint\12 _ Events.dll
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\12 _ Events\12 _ Events\obj\Debug\net7.0\12 _ Events.pdb
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\12 _ Events\12 _ Events\obj\Debug\net7.0\12 _ Events.genruntimeconfig.cache
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\12 _ Events\12 _ Events\obj\Debug\net7.0\ref\12 _ Events.dll
