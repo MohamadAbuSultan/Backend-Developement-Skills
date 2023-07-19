@@ -1,0 +1,15 @@
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\13 _ Operator Overloading\13 _ Operator Overloading\bin\Debug\net7.0\13 _ Operator Overloading.exe
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\13 _ Operator Overloading\13 _ Operator Overloading\bin\Debug\net7.0\13 _ Operator Overloading.deps.json
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\13 _ Operator Overloading\13 _ Operator Overloading\bin\Debug\net7.0\13 _ Operator Overloading.runtimeconfig.json
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\13 _ Operator Overloading\13 _ Operator Overloading\bin\Debug\net7.0\13 _ Operator Overloading.dll
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\13 _ Operator Overloading\13 _ Operator Overloading\bin\Debug\net7.0\13 _ Operator Overloading.pdb
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\13 _ Operator Overloading\13 _ Operator Overloading\obj\Debug\net7.0\13 _ Operator Overloading.csproj.AssemblyReference.cache
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\13 _ Operator Overloading\13 _ Operator Overloading\obj\Debug\net7.0\13 _ Operator Overloading.GeneratedMSBuildEditorConfig.editorconfig
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\13 _ Operator Overloading\13 _ Operator Overloading\obj\Debug\net7.0\13 _ Operator Overloading.AssemblyInfoInputs.cache
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\13 _ Operator Overloading\13 _ Operator Overloading\obj\Debug\net7.0\13 _ Operator Overloading.AssemblyInfo.cs
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\13 _ Operator Overloading\13 _ Operator Overloading\obj\Debug\net7.0\13 _ Operator Overloading.csproj.CoreCompileInputs.cache
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\13 _ Operator Overloading\13 _ Operator Overloading\obj\Debug\net7.0\13 _ Operator Overloading.dll
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\13 _ Operator Overloading\13 _ Operator Overloading\obj\Debug\net7.0\refint\13 _ Operator Overloading.dll
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\13 _ Operator Overloading\13 _ Operator Overloading\obj\Debug\net7.0\13 _ Operator Overloading.pdb
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\13 _ Operator Overloading\13 _ Operator Overloading\obj\Debug\net7.0\13 _ Operator Overloading.genruntimeconfig.cache
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\13 _ Operator Overloading\13 _ Operator Overloading\obj\Debug\net7.0\ref\13 _ Operator Overloading.dll
