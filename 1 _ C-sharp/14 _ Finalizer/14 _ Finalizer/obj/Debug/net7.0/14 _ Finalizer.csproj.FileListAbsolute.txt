@@ -1,0 +1,15 @@
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\14 _ Finalizer\14 _ Finalizer\obj\Debug\net7.0\14 _ Finalizer.csproj.AssemblyReference.cache
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\14 _ Finalizer\14 _ Finalizer\obj\Debug\net7.0\14 _ Finalizer.GeneratedMSBuildEditorConfig.editorconfig
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\14 _ Finalizer\14 _ Finalizer\obj\Debug\net7.0\14 _ Finalizer.AssemblyInfoInputs.cache
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\14 _ Finalizer\14 _ Finalizer\obj\Debug\net7.0\14 _ Finalizer.AssemblyInfo.cs
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\14 _ Finalizer\14 _ Finalizer\obj\Debug\net7.0\14 _ Finalizer.csproj.CoreCompileInputs.cache
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\14 _ Finalizer\14 _ Finalizer\bin\Debug\net7.0\14 _ Finalizer.exe
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\14 _ Finalizer\14 _ Finalizer\bin\Debug\net7.0\14 _ Finalizer.deps.json
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\14 _ Finalizer\14 _ Finalizer\bin\Debug\net7.0\14 _ Finalizer.runtimeconfig.json
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\14 _ Finalizer\14 _ Finalizer\bin\Debug\net7.0\14 _ Finalizer.dll
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\14 _ Finalizer\14 _ Finalizer\bin\Debug\net7.0\14 _ Finalizer.pdb
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\14 _ Finalizer\14 _ Finalizer\obj\Debug\net7.0\14 _ Finalizer.dll
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\14 _ Finalizer\14 _ Finalizer\obj\Debug\net7.0\refint\14 _ Finalizer.dll
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\14 _ Finalizer\14 _ Finalizer\obj\Debug\net7.0\14 _ Finalizer.pdb
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\14 _ Finalizer\14 _ Finalizer\obj\Debug\net7.0\14 _ Finalizer.genruntimeconfig.cache
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\14 _ Finalizer\14 _ Finalizer\obj\Debug\net7.0\ref\14 _ Finalizer.dll
