@@ -1,0 +1,15 @@
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\15 _ Nested Types\15 _ Nested Types\bin\Debug\net7.0\15 _ Nested Types.exe
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\15 _ Nested Types\15 _ Nested Types\bin\Debug\net7.0\15 _ Nested Types.deps.json
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\15 _ Nested Types\15 _ Nested Types\bin\Debug\net7.0\15 _ Nested Types.runtimeconfig.json
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\15 _ Nested Types\15 _ Nested Types\bin\Debug\net7.0\15 _ Nested Types.dll
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\15 _ Nested Types\15 _ Nested Types\bin\Debug\net7.0\15 _ Nested Types.pdb
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\15 _ Nested Types\15 _ Nested Types\obj\Debug\net7.0\15 _ Nested Types.csproj.AssemblyReference.cache
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\15 _ Nested Types\15 _ Nested Types\obj\Debug\net7.0\15 _ Nested Types.GeneratedMSBuildEditorConfig.editorconfig
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\15 _ Nested Types\15 _ Nested Types\obj\Debug\net7.0\15 _ Nested Types.AssemblyInfoInputs.cache
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\15 _ Nested Types\15 _ Nested Types\obj\Debug\net7.0\15 _ Nested Types.AssemblyInfo.cs
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\15 _ Nested Types\15 _ Nested Types\obj\Debug\net7.0\15 _ Nested Types.csproj.CoreCompileInputs.cache
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\15 _ Nested Types\15 _ Nested Types\obj\Debug\net7.0\15 _ Nested Types.dll
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\15 _ Nested Types\15 _ Nested Types\obj\Debug\net7.0\refint\15 _ Nested Types.dll
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\15 _ Nested Types\15 _ Nested Types\obj\Debug\net7.0\15 _ Nested Types.pdb
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\15 _ Nested Types\15 _ Nested Types\obj\Debug\net7.0\15 _ Nested Types.genruntimeconfig.cache
+E:\My_Learning\Backend Developement Skills  مهارات تطوير البنى التحتية\1 _ C-sharp\15 _ Nested Types\15 _ Nested Types\obj\Debug\net7.0\ref\15 _ Nested Types.dll

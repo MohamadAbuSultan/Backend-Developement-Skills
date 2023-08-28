@@ -1,0 +1,11 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = _1____Pure_Vs._Impure_Function
+build_property.ProjectDir = E:\My_Learning\Dot_Net\Backend_Developement_Skills\3 _ Language Integrated Query - LINQ\1 _  Pure Vs. Impure Function\1 _  Pure Vs. Impure Function\
