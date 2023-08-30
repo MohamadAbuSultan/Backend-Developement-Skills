@@ -57,21 +57,21 @@
             // - Impure functions are often harder to predict, test, and debug due to their potential interactions with external factors.
 
 
-            Print(numbers);
+            //Print(numbers);
 
-            AddInteger1(3);
-            Print(numbers);
+            //AddInteger1(3);
+            //Print(numbers);
 
-            var x = 2;
-            AddInteger2(ref x);
+            //var x = 2;
+            //AddInteger2(ref x);
 
             // AddInteger3();
 
-            //var newList = AddInteger4(numbers, 3);
-            //Console.WriteLine("old list");
-            //Print(numbers);
-            //Console.WriteLine("new list");
-            //Print(newList);
+            Console.WriteLine("old list");
+            Print(numbers);
+            var newList = AddInteger4(numbers, 3);
+            Console.WriteLine("new list");
+            Print(newList);
 
             Console.ReadKey();
         }
@@ -100,6 +100,7 @@
         static void AddInteger3()
         {
             numbers.Add(new Random().Next()); // impure interation with outside world
+            // impure مع أي إشي خارج نطاق الفنكشن هيكون interaction أي 
         }
 
         static List<int> AddInteger4(List<int> numbers, int num)
