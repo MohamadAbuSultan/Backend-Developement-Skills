@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\My_Learning\\Backend Developement Skills  مهارات تطوير البنى التحتية\\1 _ C-sharp\\15 _ Nested Types\\15 _ Nested Types\\15 _ Nested Types.csproj",
+      "projectUniqueName": "D:\\My_Learning\\Dot_Net\\Backend_Developement_Skills\\1 _ C-sharp\\15 _ Nested Types\\15 _ Nested Types\\15 _ Nested Types.csproj",
       "projectName": "15 _ Nested Types",
-      "projectPath": "E:\\My_Learning\\Backend Developement Skills  مهارات تطوير البنى التحتية\\1 _ C-sharp\\15 _ Nested Types\\15 _ Nested Types\\15 _ Nested Types.csproj",
+      "projectPath": "D:\\My_Learning\\Dot_Net\\Backend_Developement_Skills\\1 _ C-sharp\\15 _ Nested Types\\15 _ Nested Types\\15 _ Nested Types.csproj",
       "packagesPath": "C:\\Users\\CROSSHAIR 15\\.nuget\\packages\\",
-      "outputPath": "E:\\My_Learning\\Backend Developement Skills  مهارات تطوير البنى التحتية\\1 _ C-sharp\\15 _ Nested Types\\15 _ Nested Types\\obj\\",
+      "outputPath": "D:\\My_Learning\\Dot_Net\\Backend_Developement_Skills\\1 _ C-sharp\\15 _ Nested Types\\15 _ Nested Types\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -66,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
